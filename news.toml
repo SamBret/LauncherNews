@@ -3,7 +3,7 @@ Title = "Redux Update: Modding tools - Unity Editor"
 Content = "Recently efforts have been made in the \"modding support\" side of Redux, today I want to share with you a breakthrough that will make modding the game a much smoother process.\n\nUsing Redux's modding SDK, which will be partly based on the KSP2 Unity Tools package, in conjunction with PassivePicasso's ThunderKit you will be able to test your mods by running KSP2 Redux directly in the Unity editor!\n\nThis allows you to:\n- Very quickly iterate, with changes being able to be tested in a matter of seconds, not minutes.\n- View what's happening in-game in real time using the Scene view.\n- Access the full suite of Unity Editor tools, including for example custom inspectors for Unity and KSP2 components.\n- Use built-in Unity C# debugging tools and any other Unity package library.\n\nOn a technical note, we are still figuring out stuff like Harmony which does not really work in the editor (but will work fine in the compiled mods), we'll keep you updated if we make progress on this front. For simplicity, we will also want the modding API to provide as many endpoints as possible that allow you to mod the game without the use of Harmony."
 Date = 2025-05-14T00:00:00Z
 Author = "Safarte"
-ImageUrl = "https://media.discordapp.net/attachments/1340177004569301075/1372288953230819400/image.png?ex=6874ac6e&is=68735aee&hm=bbcfdb8ad2b094d4fb5c4f1e62b588f62b1f261e2940cb0896d0b719c4d57926&=&format=webp&quality=lossless&width=1576&height=855"
+ImageUrl = "https://raw.githubusercontent.com/SamBret/LauncherNews/refs/heads/main/images/modding-tools.png"
 Link = "https://discord.com/channels/1078696971088433153/1340177004569301075/1372288953201332305"
 
 [[news]]
@@ -11,7 +11,7 @@ Title = "KSP2 Redux Roadmap"
 Content = ""
 Date = 2025-05-23T00:00:00Z
 Author = "munix"
-ImageUrl = "https://media.discordapp.net/attachments/1078759078773399572/1375279077770137610/ReduxRoadmap41.png?ex=68750133&is=6873afb3&hm=8378116572e4cc04be693d3a7db9b7f2e1bb036c73b47fd49444792b9034e3a5&=&format=webp&quality=lossless&width=1661&height=856"
+ImageUrl = "https://raw.githubusercontent.com/SamBret/LauncherNews/refs/heads/main/images/roadmap.png"
 Link = "https://discord.com/channels/1078696971088433153/1340177004569301075/1375278705655414855"
 
 [[news]]
@@ -26,7 +26,7 @@ Title = "UI Improvements"
 Content = "The user interface has been revamped for better usability and aesthetics."
 Date = 2025-06-18T20:42:00Z
 Author = "munix"
-ImageUrl = "https://media.discordapp.net/attachments/1340177004569301075/1384996675059191828/Still_2025-06-18_223116_2.10.1.png?ex=6874c2eb&is=6873716b&hm=5d4032332894eaea4e58b29273fb57ac10b414178ca9970560c92d8fab16bd00&=&format=webp&quality=lossless&width=1521&height=856"
+ImageUrl = "https://raw.githubusercontent.com/SamBret/LauncherNews/refs/heads/main/images/ui-improvements.png"
 Link = "https://discord.com/channels/1078696971088433153/1340177004569301075/1384996611733848085"
 
 [[news]]
